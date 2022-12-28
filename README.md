@@ -24,10 +24,6 @@ Proposals and of course doing recommendations :D .
 
 ![](https://github-profile-trophy.vercel.app/?username=w4xdgsilva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=w4xdgsilva&icon=1&color=1)](https://visitcount.itsvg.in)

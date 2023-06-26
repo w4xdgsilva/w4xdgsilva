@@ -1,47 +1,88 @@
 # 💫 About Me
 
-### <div align="center">I'm <strong>Diogo</strong>, pleasure! I'm a new development student in the job market 👨‍💻 <strong>Welcome to my portfolio, patrol!</strong> 🚀</div>
+### <div align="center"><h4>Hey there! I'm <strong>Diogo</strong>, nice to meet you! 👋 Aspiring front-end developer exploring the job market 👨‍💻 <strong>Welcome to my portfolio, patrol!</strong> 🚀</h4></div>
+
+###
 
 <br>
 
-I was always in love with
-technology since childhood exploring the vast options that
-Technology provides. I'm the guy of the gadgets XD,
-I'm testing different applications, analyzing their
-Proposals and of course doing recommendations 😄.
+<p>
+I've always been in love with technology since childhood, exploring the vast options that it provides. I'm the guy who loves gadgets and testing different applications, analyzing their features and, of course, providing recommendations with enthusiasm 😄.
+</p>
 
-- 📖 I'm really looking for a job vacancy in the front-end web development area [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/w4xdgsilva)
-
-- 🧑‍💻 I'm currently developing a project from a website for an internet provider
-
-- ❓ Ask me recommendations from apps, programs and software more varied services.
+<ul>
+    <li>💼 I'm really looking for a job vacancy in the front-end web development area. If you have any suggestions or opportunities, please contact me.</li>
+    <li>🧑‍💻 I'm currently developing a project for a website of an internet provider.</li>
+    <li>❓ Ask me for recommendations on various services, apps, programs, and software.</li>
+</ul>
 
 <br/>
 
 ## 🌐 Socials
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/diogosilva2004) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rcstMMtqGp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w4xdgsilva) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/diogoslvsouza04) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ne0nW4X) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/w4xdgsilva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/w4xdgsilva)
+<div align="left">
+  <a href="https://www.linkedin.com/in/w4xdgsilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/w4xdgsilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/w4xdgsilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/w4xdgsilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.behance.net/w4xdgsilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://codepen.io/w4xdgsilva" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+</div>
 
 <br>
 
-# 💻 Tech Stack
+# 💻 Tech Stacks & Stats
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
 <br/>
 
-# 📊 GitHub Stats
+## 🧮 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=w4xdgsilva&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=w4xdgsilva&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=w4xdgsilva&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w4xdgsilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=w4xdgsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=w4xdgsilva&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
-## 🏆 GitHub Trophies
+###
 
-![](https://github-profile-trophy.vercel.app/?username=w4xdgsilva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://raw.githubusercontent.com/w4xdgsilva/w4xdgsilva/output/snake.svg" alt="Snake animation" />
 
-<br>
+###
 
-[![](https://visitcount.itsvg.in/api?id=w4xdgsilva&icon=1&color=1)](https://visitcount.itsvg.in)
+### <div align="center">🧑‍💻 Profile Visitors</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/w4xdgsilva/count.svg?"  />
+</div>

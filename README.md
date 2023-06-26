@@ -75,6 +75,12 @@ I've always been in love with technology since childhood, exploring the vast opt
   <img src="https://streak-stats.demolab.com?user=w4xdgsilva&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/w4xdgsilva/w4xdgsilva/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### <div align="center">🧑‍💻 Profile Visitors</div>
 
 <div align="center">

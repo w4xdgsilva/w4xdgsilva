@@ -10,7 +10,7 @@ Technology provides. I'm the guy of the gadgets XD,
 I'm testing different applications, analyzing their
 Proposals and of course doing recommendations 😄.
 
-- 📖 I'm really looking for a job vacancy in the front-end web development area [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/w4xdgsilva)
+- 📖 I'm really looking for a job vacancy in the front-end web development area [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/w4xdgsilva){:target="\_blank"}
 
 - 🧑‍💻 I'm currently developing a project from a website for an internet provider
 
@@ -20,7 +20,7 @@ Proposals and of course doing recommendations 😄.
 
 ## 🌐 Socials
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/diogosilva2004) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rcstMMtqGp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w4xdgsilva) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/diogoslvsouza04) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ne0nW4X) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/w4xdgsilva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/w4xdgsilva)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/diogosilva2004){:target="\_blank"} [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rcstMMtqGp){:target="\_blank"} [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/w4xdgsilva){:target="\_blank"} [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/diogoslvsouza04){:target="\_blank"} [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ne0nW4X){:target="\_blank"} [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/w4xdgsilva){:target="\_blank"} [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/w4xdgsilva){:target="\_blank"}
 
 <br>
 

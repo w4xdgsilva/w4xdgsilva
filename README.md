@@ -10,7 +10,7 @@ Technology provides. I'm the guy of the gadgets XD,
 I'm testing different applications, analyzing their
 Proposals and of course doing recommendations 😄.
 
-- 📖 I'm really looking for a job vacancy in the front-end web development area [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/w4xdgsilva){:target="\_blank"}
+- 📖 I'm really looking for a job vacancy in the front-end web development area <a href="https://linkedin.com/in/w4xdgsilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 - 🧑‍💻 I'm currently developing a project from a website for an internet provider
 

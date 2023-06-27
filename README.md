@@ -77,7 +77,7 @@ I've always been in love with technology since childhood, exploring the vast opt
 
 ###
 
-<img src="https://raw.githubusercontent.com/w4xdgsilva/w4xdgsilva/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/w4xdgsilva/w4xdgsilva/blob/output/github-contribution-grid-snake.svg)
 
 ###
 

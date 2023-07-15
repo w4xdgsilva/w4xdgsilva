@@ -12,7 +12,7 @@ I've always been in love with technology since childhood, exploring the vast opt
 
 <ul>
     <li>💼 I'm really looking for a job vacancy in the front-end web development area. If you have any suggestions or opportunities, please contact me.</li>
-    <li>🧑‍💻 I'm currently developing a project for a website of an internet provider.</li>
+    <li>🧑‍💻 I'm currently developing freelas projects of e-commerce sites and an internet provider site to acquire customer experience, reputation and recommendations.</li>
     <li>❓ Ask me for recommendations on various services, apps, programs, and software.</li>
 </ul>
 

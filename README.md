@@ -77,7 +77,7 @@ I've always been in love with technology since childhood, exploring the vast opt
 
 ###
 
-<img src="https://raw.githubusercontent.com/w4xdgsilva/w4xdgsilva/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/w4xdgsilva/w4xdgsilva/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -86,3 +86,5 @@ I've always been in love with technology since childhood, exploring the vast opt
 <div align="center">
   <img src="https://profile-counter.glitch.me/w4xdgsilva/count.svg?"  />
 </div>
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>

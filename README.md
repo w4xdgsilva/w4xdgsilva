@@ -18,29 +18,6 @@ I've always been in love with technology since childhood, exploring the vast opt
 
 <br/>
 
-## 🌐 Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/w4xdgsilva/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/w4xdgsilva/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/w4xdgsilva/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/w4xdgsilva" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.behance.net/w4xdgsilva" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://codepen.io/w4xdgsilva" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-</div>
-
 <br>
 
 # 💻 Tech Stacks & Stats
@@ -74,6 +51,10 @@ I've always been in love with technology since childhood, exploring the vast opt
   <img src="https://github-readme-stats.vercel.app/api?username=w4xdgsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=w4xdgsilva&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
+
+## 📬 Contacts
+
+<p>Let's talk?</p>
 
 ###
 

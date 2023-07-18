@@ -67,5 +67,3 @@ I've always been in love with technology since childhood, exploring the vast opt
 <div align="center">
   <img src="https://profile-counter.glitch.me/w4xdgsilva/count.svg?"  />
 </div>
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
